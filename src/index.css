@@ -1,0 +1,21 @@
+table,thead,td,tr{
+  border:1px solid black;
+  margin-left: 120px;
+  margin-top: 50px;
+  }
+body{
+  background-color: rgb(197, 197, 235);
+}
+table{
+  background-color: #fff;
+}
+thead{
+  background-color: rgb(235, 46, 178);
+  font-size: 22px;
+}
+h4{
+  font-size: 32px;
+}
+tbody{
+  background-color: rgb(231, 213, 226);
+}
